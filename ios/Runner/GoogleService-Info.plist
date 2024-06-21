@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>126312877369-08vrrcoh1ipq0lnng66ij0o3f53np0u8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.126312877369-08vrrcoh1ipq0lnng66ij0o3f53np0u8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>126312877369-09lqhaonl8iotm2iccsnr18gmqva75hm.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDYuRRs8itow8QftBcz2a_-D2wwowUaTCk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>126312877369</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tiff.tiffinbox</string>
+	<key>PROJECT_ID</key>
+	<string>dating-ee43e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dating-ee43e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:126312877369:ios:db112c90785132f6456ce8</string>
+	<key>DATABASE_URL</key>
+	<string>https://dating-ee43e-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
